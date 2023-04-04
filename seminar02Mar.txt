@@ -1,0 +1,38 @@
+13:12:19 From Wataru Takeuchi To Everyone:
+	OK
+13:24:36 From Wataru Takeuchi To Everyone:
+	Can you share the slide link?
+13:29:58 From Shoki Shimada To Everyone:
+	I uploaded slides to the drive:	Dominic-san's slide: https://drive.google.com/file/d/1hBGEWnb-CSWTtOyJHfR7TO7Rh301kUdm/view?usp=share_link	Arielle-san's slide:	https://drive.google.com/file/d/1ElVCkAa9Ktkd85F2hrSxQNh5xvSLmPCO/view?usp=share_link
+13:38:24 From Wataru Takeuchi To Everyone:
+	The collected ship movement data may contain missing or incorrect values that need to be addressed. Data preprocessing techniques can be applied to clean and normalize the data before it is used in the machine learning model.
+13:46:27 From Shoki Shimada To Everyone:
+	https://en.wikipedia.org/wiki/Iron_fertilization
+13:48:23 From Wataru Takeuchi To Everyone:
+	How many years of data you plan to process?
+13:49:00 From Wataru Takeuchi To Everyone:
+	Can you share slide link again?
+13:49:25 From Shoki Shimada To Everyone:
+	Here are the slides to the today's presentations:		Dominic-san's slide: https://drive.google.com/file/d/1hBGEWnb-CSWTtOyJHfR7TO7Rh301kUdm/view?usp=share_link	Arielle-san's slide:	https://drive.google.com/file/d/1ElVCkAa9Ktkd85F2hrSxQNh5xvSLmPCO/view?usp=share_link
+13:50:53 From [UTokyo] Xuan Truong Trinh To Everyone:
+	https://link.springer.com/chapter/10.1007/978-3-319-70069-4_19 have you referred to this book/chapter
+13:54:18 From Wataru Takeuchi To Everyone:
+	Need to collect AIS data. Night time light, MODIS data are available at GEE.
+13:55:20 From Shoki Shimada To Everyone:
+	The idea of "High Nitrate Low Chlorophyll (HNLC)" region is very interesting. Some areas should already have enough nutrients for phytoplankton, but due to various reasons there are not so much population in the region. Ships could be potential supplier for the missing nutrients.		http://www.soest.hawaii.edu/oceanography/courses/OCN626/2008_OCN%20626/HNLC%20regions%20lecture_2008.pdf
+13:59:52 From Shoki Shimada To Everyone:
+	We will start from 2:05 pm after a short break
+14:01:37 From Shoki Shimada To Everyone:
+	Paper of ship detection by using night time light, which is written by Sensei and Huang-san who is the graduate of our lab		http://wtlab.iis.u-tokyo.ac.jp/wataru/publication/pdf/dnb-boat.pdf
+14:19:36 From Shoki Shimada To Everyone:
+	This kind of study could be related to Arielle-san's interest?		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235458/
+14:22:39 From Shoki Shimada To Everyone:
+	Takeuchi-sensei has also been managing drought monitoring system based on satellite data in Asia.		Webpage: http://wtlab.iis.u-tokyo.ac.jp/DMEWS/		Paper written by Sensei: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d6a89b801dcfe10b39ba86ddfd6b30e26d003817
+14:27:48 From Wataru Takeuchi To Everyone:
+	https://www.mdpi.com/2072-4292/12/20/3410
+14:28:28 From Wataru Takeuchi To Everyone:
+	Sand dune movement can be detected by SAR analysis. We tried in Inner-Mongolia before.
+14:30:00 From Wataru Takeuchi To Everyone:
+	I share some UAV movies in our 2019 field visit to Xilinghot, Inner-Mongolia.
+14:30:01 From Wataru Takeuchi To Everyone:
+	https://drive.google.com/drive/folders/1D8xG9D4GHgOG8D1fLAVQ7ktwxUyr3d9s?usp=share_link
